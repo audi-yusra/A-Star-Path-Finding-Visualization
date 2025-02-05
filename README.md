@@ -125,7 +125,7 @@ The A* algorithm is a popular pathfinding algorithm used to find the shortest pa
        return grid
    ```
 
-4. **User Interaction**:
+4. **User Interaction**
    - The `main` function handles user input (mouse clicks, keyboard presses) and updates the grid accordingly.
 
    ```python
