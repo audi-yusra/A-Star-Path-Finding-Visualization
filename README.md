@@ -9,7 +9,6 @@ This project is a Python implementation of the A* pathfinding algorithm, visuali
 4. [Installation](#installation)
 5. [Usage](#usage)
 6. [Code Explanation](#code-explanation)
-7. [Future Improvements](#FutureImprovements)
 
 ---
 
@@ -138,11 +137,3 @@ The A* algorithm is a popular pathfinding algorithm used to find the shortest pa
    ```
 
 ---
-
-## **Future Improvements**
-
-- Add diagonal movement
-
-- Implement other algorithms like Dijkstra’s
-
-- Improve UI with more interactive features
