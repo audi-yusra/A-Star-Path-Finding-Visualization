@@ -139,7 +139,7 @@ The A* algorithm is a popular pathfinding algorithm used to find the shortest pa
 
 ---
 
-## **Future Improvements**:
+## **Future Improvements**
 
 - Add diagonal movement
 
